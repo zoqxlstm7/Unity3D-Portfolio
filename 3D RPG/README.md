@@ -1,7 +1,7 @@
 # 프로젝트 소개
 ## 3D RPG 게임 기능 구현
-- 플레이어는 미로를 헤쳐 나가며 적을 처치하여 아이템을 얻고, 최종적으로 보스를 공략하는 간단한 게임입니다. 기본적인 RPG의 기능들을 구현해 보았습니다.<br>
-<img src="D:\GitHub\UnityPortfolio\3D RPG\Image\메인.PNG" width="450px" height="300px"></img>
+- 플레이어는 미로를 헤쳐 나가며 적을 처치하여 아이템을 얻고, 최종적으로 보스를 공략하는 간단한 게임입니다.</br> 기본적인 RPG의 기능들을 구현해 보았습니다.</br>
+<img src="Unity3D-Portfolio\3D RPG\Image\메인.PNG" width="640px" height="480px"></img></br>
 플레이 영상: <https://www.youtube.com/watch?v=ZUvLc5ImEkc>
 
 ### 주요 기능 구현
