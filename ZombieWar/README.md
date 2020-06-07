@@ -1,6 +1,7 @@
 # Zombie War
 <img src="./Image/메인.PNG"></img>
 [플레이영상](https://blog.naver.com/zoqxlstm6/221993074008)
+<iframe width="544" height="306" src="https://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=970E18FA45EE5D9046B2832C7E06433F2F0E&outKey=V123d30dfbea3d23c2e18bbc72b7a66561cb99dd5dc2db60b28b3bbc72b7a66561cb9" frameborder="no" scrolling="no" title="NaverVideo" allow="autoplay; gyroscope; accelerometer; encrypted-media" allowfullscreen></iframe>
 ## 프로젝트 소개
 - Photon Pun2를 이용하여 네트워크를 구성하고, 최대 4명까지 수용 가능한 방에 입장하여 좀비들을 물리치고, 보스를 격파하면 승리하는 멀티 슈팅 게임입니다. 플레이어는 시작 전 원하는 캐릭터와 각각의 능력치가 다른 총기를 선택한 후 플레이하게 됩니다. 플레이 중에는 힐팩과 수류탄을 사용할 수 있고, 좀비를 처치하면 확률에 따른 아이템을 얻습니다. 게임 종료시에는 플레이시 적에게 가한 피해량을 계산하여 최고의 플레이를 뽑습니다.
 ## 기능 소개
