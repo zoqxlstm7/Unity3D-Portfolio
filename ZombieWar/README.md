@@ -1,4 +1,6 @@
 # Zombie War
+- 제작 기간: 4주
+
 <img src="./Image/메인.PNG"></img>
 
 ## -플레이 영상-
