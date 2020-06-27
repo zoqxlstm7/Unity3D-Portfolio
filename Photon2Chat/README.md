@@ -1,4 +1,6 @@
 # Photon2Chat
+- 제작 기간: 2일
+
 <img src="./Image/메인.PNG"></img>
 
 ## -플레이 영상-
