@@ -3,7 +3,7 @@
 
 <img src="./Image/메인.PNG"></img>
 
-## -플레이 영상-
+## 플레이 영상
 [플레이영상](https://blog.naver.com/zoqxlstm6/221993074008)
 
 ## 프로젝트 소개

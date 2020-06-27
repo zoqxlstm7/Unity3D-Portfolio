@@ -6,8 +6,8 @@
 <img src="./Image/오컬루전 컬링 전.PNG" width="320px" height="240px"></img>
 <img src="./Image/오컬루전 컬링 후.PNG" width="320px" height="240px"></img></br></br>
 
-## -플레이 영상-
-플레이 영상: <https://www.youtube.com/watch?v=xhsWvPpqIr8&t=3s>
+## 플레이 영상
+[플레이 영상](https://www.youtube.com/watch?v=xhsWvPpqIr8&t=3s)
 
 ### 주요 기능 구현
 1. 마우스 클릭 이동 및 공격 기능
